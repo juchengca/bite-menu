@@ -30,7 +30,7 @@
 
 6. Navigate to [localhost](http://www.localhost:3000/) or make call to http://www.localhost:3000/trigger-sync
 
-7. Inspect console for successful menu synchronization message
+7. Inspect terminal for successful menu synchronization message
 
 ## Testing
 
